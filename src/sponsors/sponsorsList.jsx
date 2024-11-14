@@ -34,18 +34,18 @@ const allSponsors = {
     "Platinum": [
         {images: Airwallex_img, alt: "Airwallex"},
         {images: Atlassian_img, alt: "Atlassian"},
-        {images: Optiver_img, alt: "Optiver"},
         {images: Churchill_img, alt: "Churchill AM"},
+        {images: Optiver_img, alt: "Optiver"},
         {images: QuickRelease_img, alt: "Quick Release"},
 
     ],
     "Gold": [
         {images: ACS_img, alt: "ACS"},
-        {images: REA_img, alt: "REA Group"},
         {images: Bukapalak_img, alt: "Bukalapak"},
         {images: Citadel_img, alt: "Citadel Securities"},
         {images: Commbank_img, alt: "Commbank"},
         {images: JDS_img, alt: "JDS"},
+        {images: REA_img, alt: "REA Group"},
         {images: SIG_img, alt: "SIG"},
         {images: VivCourt_img, alt: "VivCourt"},
     ],
@@ -54,7 +54,6 @@ const allSponsors = {
         {images: Canva_img, alt: "Canva"},
         {images: KPMG_img, alt: "KPMG"},
         {images: Tiktok_img, alt: "Tiktok"}
-
     ]
 }
 
