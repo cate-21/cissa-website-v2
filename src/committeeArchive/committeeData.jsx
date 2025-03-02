@@ -4,12 +4,57 @@ const executives = [
   'Secretary',
   'Treasurer',
   'Events Director',
-  'Events Officer',
   'Education Director',
-  'Education Officer',
 ]
 
 const committeeData = {
+  '2024/2025': [
+    {
+      'President': 'Josh Heng',
+    },
+    {
+      'Vice-President': 'Ileana Huang',
+    },
+    {
+      'Secretary': 'Delia Zhou',
+    },
+    {
+      'Treasurer': 'Andy Kang',
+    },
+    {
+      'Education Director': 'Rama Kaorma',
+    },
+    {
+      'Events Director': 'Angela Chen',
+    },
+    {
+      'Marketing Director': 'Sammi Li',
+    },
+    {
+      'Design Director': 'Amy Nguyen',
+    },
+    {
+      'Industry Director': 'Rebecca Chao',
+    },
+    {
+      'IT Director': 'Caitlin Alberti',
+    },
+    {
+      'Projects Director': 'Suchit Rawat',
+    },
+    {
+      'Diversity Director': 'Nigel Loh',
+    },
+    {
+      'Product Director': 'Girija Karajgi',
+    },
+    {
+      'Competitions Director': 'Jasir Syed',
+    },
+    {
+      'People & Culture Director': 'Lucy Martin',
+    }
+  ],
   '2023/2024': [
     {
       'President': 'Cinque Howells',

@@ -8,7 +8,7 @@ const UpEventPage = (props) => {
                 <h1 className="section-title white-header-text">EVENTS</h1>
             </header>
 
-            <iframe className="airtable-embed" src="https://airtable.com/embed/shr9puuNFsGBcB5Wl?backgroundColor=pink"></iframe>
+            <iframe className="airtable-embed" src="https://airtable.com/embed/appq8cXX0yFGnGtpE/shr8v0djePTuPQJqr?backgroundColor=pink"></iframe>
             
             <h5 className="text-center py-5">
                 Check out our past events <a href="/past-events">here</a>

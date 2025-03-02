@@ -1,60 +1,55 @@
 // Diamond
 import IMC_img from "../assets/images/sponsors/imc.png";
 import JaneStreet_img from "../assets/images/sponsors/janestreet.png";
+import Airwallex_img from "../assets/images/sponsors/airwallex.png";
 
 // Platinum
-import Airwallex_img from "../assets/images/sponsors/airwallex.png";
 import Atlassian_img from "../assets/images/sponsors/atlassian-2022.png";
 import Optiver_img from "../assets/images/sponsors/optiver.png";
-import Churchill_img from "../assets/images/sponsors/churchill-AM.png";
-import QuickRelease_img from "../assets/images/sponsors/quickrelease.png";
+import SIG_img from "../assets/images/sponsors/sig.png"
+import Skand_img from "../assets/images/sponsors/skand.png"
+import Talaria_img from "../assets/images/sponsors/talaria.png"
 
 // Gold
-import ACS_img from "../assets/images/sponsors/acs.png";
-import Bukapalak_img from "../assets/images/sponsors/bukapalak.png";
-import REA_img from "../assets/images/sponsors/rea.png";
 import Citadel_img from "../assets/images/sponsors/citadel.png";
-import Commbank_img from "../assets/images/sponsors/commbank.png";
-import JDS_img from "../assets/images/sponsors/jds.png";
-import SIG_img from "../assets/images/sponsors/sig.png"
-import VivCourt_img from "../assets/images/sponsors/vivCourt.png"
+import Suncorp_img from "../assets/images/sponsors/suncorp.png"
 
 // Silver
-import Tiktok_img from "../assets/images/sponsors/tiktok.png";
-import Canva_img from "../assets/images/sponsors/canva.png";
-import Accenture_img from "../assets/images/sponsors/accenture.png";
-import KPMG_img from "../assets/images/sponsors/kpmg.png";
+import Commbank_img from "../assets/images/sponsors/commbank.png";
+import REA_img from "../assets/images/sponsors/rea.png";
+import Xero_img from "../assets/images/sponsors/xero.png"
+import Vanguard_img from "../assets/images/sponsors/vanguard.png"
+
+// Education
+import CIS_img from "../assets/images/sponsors/cis.png"
 
 
 const allSponsors = {
     "Diamond": [
         {images: IMC_img, alt: "IMC"},
-        {images: JaneStreet_img, alt: "Jane Street"}
+        {images: JaneStreet_img, alt: "Jane Street"},
+        {images: Airwallex_img, alt: "Airwallex"},
     ],
     "Platinum": [
-        {images: Airwallex_img, alt: "Airwallex"},
         {images: Atlassian_img, alt: "Atlassian"},
-        {images: Churchill_img, alt: "Churchill AM"},
         {images: Optiver_img, alt: "Optiver"},
-        {images: QuickRelease_img, alt: "Quick Release"},
-
+        {images: SIG_img, alt: "SIG"},
+        {images: Skand_img, alt: "Skand"},
+        {images: Talaria_img, alt: "Talaria"}
     ],
     "Gold": [
-        {images: ACS_img, alt: "ACS"},
-        {images: Bukapalak_img, alt: "Bukalapak"},
         {images: Citadel_img, alt: "Citadel Securities"},
-        {images: Commbank_img, alt: "Commbank"},
-        {images: JDS_img, alt: "JDS"},
-        {images: REA_img, alt: "REA Group"},
-        {images: SIG_img, alt: "SIG"},
-        {images: VivCourt_img, alt: "VivCourt"},
+        {images: Suncorp_img, alt: "Suncorp"},
     ],
     "Silver": [
-        {images: Accenture_img, alt: "Accenture"},
-        {images: Canva_img, alt: "Canva"},
-        {images: KPMG_img, alt: "KPMG"},
-        {images: Tiktok_img, alt: "Tiktok"}
-    ]
+        {images: REA_img, alt: "REA Group"},
+        {images: Commbank_img, alt: "Commbank"},
+        {images: Vanguard_img, alt: "Vanguard"},
+        {images: Xero_img, alt: "Xero"},
+    ],
+    "Education": [
+        {images: CIS_img, alt: "The University of Melbourne, School of Computing and Information Systems"}
+    ],
 }
 
 export {allSponsors};
