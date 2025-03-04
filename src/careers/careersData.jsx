@@ -85,7 +85,7 @@ const allCardsInfo = {
         opportunities: []
     },
 
-    "Talaria": {
+    "Talaria Capital": {
         image: Talaria_img,
         link: "https://www.talariacapital.com.au/careers-at-talaria/",
         opportunities: []

@@ -50,7 +50,7 @@ const SponsorsPage = (props) => {
                 </div>
 
                 <div className="text-center sponsor-email"> 
-                    Email us at <a href="mailto:executives@cissa.org.au">executives@cissa.org.au</a> 
+                    Email us at <a href="mailto:industry@cissa.org.au">industry@cissa.org.au</a> 
                 </div>
             </div>
 

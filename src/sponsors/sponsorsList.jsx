@@ -35,7 +35,7 @@ const allSponsors = {
         {images: Optiver_img, alt: "Optiver"},
         {images: SIG_img, alt: "SIG"},
         {images: Skand_img, alt: "Skand"},
-        {images: Talaria_img, alt: "Talaria"}
+        {images: Talaria_img, alt: "Talaria Capital"}
     ],
     "Gold": [
         {images: Citadel_img, alt: "Citadel Securities"},
