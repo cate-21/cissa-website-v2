@@ -88,7 +88,10 @@ const allCardsInfo = {
     "Talaria Capital": {
         image: Talaria_img,
         link: "https://www.talariacapital.com.au/careers-at-talaria/",
-        opportunities: []
+        opportunities: [
+            {name: "'A Taste of Finance' Workshop", type: "Workshop", location: "Melbourne", link: "https://www.talariacapital.com.au/student-finance-workshop/"},
+            {name: "Student Placement Program", type: "Intern", location: "Melbourne", link: "https://www.talariacapital.com.au/student-placement-program/"},
+        ]
     },
     
 

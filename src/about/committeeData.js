@@ -10,7 +10,7 @@ import marketingDirectorImage from '../assets/images/committee/sammi-li.jpg'
 import ITDirectorImage from '../assets/images/committee/caitlin-alberti.jpg'
 import projectDirectorImage from '../assets/images/committee/suchit-rawat.jpg'
 import productDirectorImage from '../assets/images/committee/girija-karajgi.jpg'
-import competitionsDirectorImage from '../assets/images/committee/jasir-syed.png'
+import competitionsDirectorImage from '../assets/images/committee/jasir-syed.jpg'
 import diversityDirectorImage from '../assets/images/committee/nigel-loh.jpg'
 import peopleDirectorImage from '../assets/images/committee/lucy-martin.jpg'
 
