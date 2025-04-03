@@ -12,13 +12,17 @@ import Talaria_img from "../assets/images/sponsors/talaria.png"
 
 // Gold
 import Citadel_img from "../assets/images/sponsors/citadel.png";
-import Suncorp_img from "../assets/images/sponsors/suncorp.png"
+import Suncorp_img from "../assets/images/sponsors/suncorp.png";
+import KPMG_img from "../assets/images/sponsors/kpmg.png"
+import Shine_img from "../assets/images/sponsors/shine-solutions.png"
 
 // Silver
 import Commbank_img from "../assets/images/sponsors/commbank.png";
 import REA_img from "../assets/images/sponsors/rea.png";
 import Xero_img from "../assets/images/sponsors/xero.png"
 import Vanguard_img from "../assets/images/sponsors/vanguard.png"
+import QRT_img from "../assets/images/sponsors/qrt.png"
+import EY_img from "../assets/images/sponsors/ey.png"
 
 // Education
 import CIS_img from "../assets/images/sponsors/cis.png"
@@ -40,12 +44,20 @@ const allSponsors = {
     "Gold": [
         {images: Citadel_img, alt: "Citadel Securities"},
         {images: Suncorp_img, alt: "Suncorp"},
+        {images: KPMG_img, alt: "KPMG"},
+        {images:Shine_img, alt: "Shine Solutions"}
+
+
     ],
     "Silver": [
         {images: REA_img, alt: "REA Group"},
         {images: Commbank_img, alt: "Commbank"},
         {images: Vanguard_img, alt: "Vanguard"},
         {images: Xero_img, alt: "Xero"},
+        {images: QRT_img, alt: "Qube Research and Technologies"},
+        {images: EY_img, alt: "EY"}
+
+
     ],
     "Education": [
         {images: CIS_img, alt: "The University of Melbourne, School of Computing and Information Systems"}
